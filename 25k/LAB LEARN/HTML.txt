@@ -1,0 +1,10 @@
+<Title> in head
+<h1> , <h2> , <h2> for heading in body
+<pre> for making it seperate (one line gape before and after)
+<br> for new line in between paragraphs
+<br> For bold & <strong> for bolding and showing importance while SEO
+<I> for italic
+<sup> For power
+<sub> for writing number smaller and below, like moleculus
+<img src=" Link " alt="Word to show if image not loading">
+
