@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <input type="number" id="n1" placeholder = "Enter 1st Number ">
+  <input type ="number" id="n2" placeholder = "Enter 2nd Number ">
+  <button onclick="Calculate()">Addition</button>
+  <p id="Result">Result</p>
+
+  <script>
+    function Calculate(){
+      let num1 = Number(document.getElementById("n1").value);
+      let num2 = Number(document.getElementById("n2").value);
+      let Result = num1 + num2;
+
+      document.getElementById("Result").innerHTML = "Result: " + Result;
+    }
+  </script>
+</body>
+</html>
