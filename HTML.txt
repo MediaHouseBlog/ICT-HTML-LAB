@@ -18,13 +18,14 @@
 <span> to make a set of word highlighted or containered.
 <a> href="Link"> Visit website </a>
 
-"&nbsp" can be used in between body paragraphs to do this thing that two words are seperated by a space line
+"&nbsp" can be used in between body paragraphs to do this thing that two words are seperated by a new line so they both can come together with this
 
 CSS
 
 Inline CSS => design for specific line
 Internal CSS => 
 External => another file is prepared out of html file and then linked with the html file.
+
 
 
 
